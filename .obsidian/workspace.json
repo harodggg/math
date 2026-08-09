@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "set/settheory_proof/README.md",
+                "file": "book/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "89bed36bd4498500",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-05 09.12.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-05 09.12.08.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,9 +227,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7c997e0733ae6f8",
+  "active": "89bed36bd4498500",
   "lastOpenFiles": [
+    "set/zfc_set/lake-manifest.json",
+    "set/zfc_set/ZfcSet/Basic.lean",
+    "set/zfc_set/lean-toolchain",
+    "set/zfc_set/lakefile.toml",
+    "set/zfc_set/ZfcSet.lean",
+    "set/zfc_set/ZfcSet",
+    "set/zfc_set/README.md",
+    "set/zfc_set/Main.lean",
+    "set/zfc_set",
+    "book/README.md",
+    "Excalidraw/Drawing 2026-08-05 09.12.08.excalidraw.md",
     "set/README.md",
+    "structure/README.md",
+    "structure/know-base-name.md",
     "set/settheory_proof/README.md",
     "Excalidraw/Drawing 2026-08-04 21.18.27.excalidraw.md",
     "Excalidraw",

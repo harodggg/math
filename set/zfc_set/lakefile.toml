@@ -1,0 +1,10 @@
+name = "zfc_set"
+version = "0.1.0"
+defaultTargets = ["zfc_set"]
+
+[[lean_lib]]
+name = "ZfcSet"
+
+[[lean_exe]]
+name = "zfc_set"
+root = "Main"

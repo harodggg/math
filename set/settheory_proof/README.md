@@ -4,6 +4,7 @@
 
 $$ \forall X \forall Y (\forall z ( z \in X \iff  z \in Y) \implies X = Y ) $$
 
+
 ### 3. Notation
 $$ \emptyset $$
 $$ \in $$
@@ -19,7 +20,7 @@ $$ \supset $$
 $$ \supseteq $$
 $$ \not\subset $$
 $$ \not\supseteq $$
-$$ \exist $$
+$$ \exists $$
 $$ \forall $$
 $$ \implies $$
 $$ \impliedby $$
