@@ -227,8 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89bed36bd4498500",
+  "active": "27dccc06ba0e94e7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-08-05 09.12.08.excalidraw.md",
+    "english/README.md",
+    "english",
     "flp-cap/cap",
     "flp-cap/flp",
     "flp-cap",
@@ -238,9 +241,6 @@
     "cash/bitcoin",
     "cash/ecash",
     "cash/digicash",
-    "cash",
-    "Excalidraw/Drawing 2026-08-05 09.12.08.excalidraw.md",
-    "set/zfc_set/ZfcSet/ZfcAxiom.lean",
     "set/zfc_set/README.md",
     "book/README.md",
     "set/README.md",
